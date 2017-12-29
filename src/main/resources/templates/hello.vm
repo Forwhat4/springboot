@@ -1,0 +1,13 @@
+<!doctype html>
+<html>
+    <head>
+
+    </head>
+    <body>
+        welcome ${name} to spring boot!
+        <br>
+          path = ${rc.contextPath}
+
+        <script type="text/javascript" src="${rc.contextPath}/libs/jquery-3.2.1.js"></script>
+    </body>
+</html>
